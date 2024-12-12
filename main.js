@@ -64,3 +64,4 @@ result=("bele cavab yoxdur");
     }
 
 
+# firstjs
